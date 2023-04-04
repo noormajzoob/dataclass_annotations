@@ -1,4 +1,4 @@
-import 'package:dataclass_annotations/src/data_class_methods.dart';
+import 'package:datac_annotations/src/data_class_methods.dart';
 
 /// class annotation, used for model class.
 /// @Params exclude represent list of methods that will not be included

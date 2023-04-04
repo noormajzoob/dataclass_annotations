@@ -1,4 +1,4 @@
-name: dataclass_annotations
+name: datac_annotations
 description: annotation utility for data class generator.
 version: 0.0.5
 homepage:
