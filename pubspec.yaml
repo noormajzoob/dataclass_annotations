@@ -2,6 +2,7 @@ name: dataclass_annotations
 description: annotation utility for data class generator.
 version: 0.0.5
 homepage:
+repository: https://github.com/noormajzoob/dataclass_annotations
 
 environment:
   sdk: '>=2.19.4 <3.0.0'
